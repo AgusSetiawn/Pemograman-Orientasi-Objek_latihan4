@@ -43,7 +43,7 @@
 
 ## ● Latihan 2
 
-**Implementasikan java code diagram class berikut: :**
+**Implementasikan java code diagram class :**
 
 <br/>
 
@@ -61,4 +61,4 @@
 
 <br/>
 
-<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-10-24%20002217.png" height="150" width="300"> </p>
+<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-10-24%20014732.png" height="180" width="310"> </p>
